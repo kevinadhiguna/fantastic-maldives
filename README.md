@@ -2,6 +2,12 @@
 
 Fantastic Maldives is a web landing page with a video background which enables a user to play and pause the video. 
 
+## Demo
+Here are how this app looks :
+<img src="https://raw.githubusercontent.com/kevinadhiguna/fantastic-maldives/master/demo/1.png" width="90%"></img> <br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/fantastic-maldives/master/demo/2.png" width="90%"></img> <br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/fantastic-maldives/master/demo/3.png" width="90%"></img>
+
 ## How to Run :
 1. Clone this repository :
 `git clone https://github.com/kevinadhiguna/fantastic-maldives.git`.
