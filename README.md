@@ -16,3 +16,5 @@ Here are how this app looks :
 4. Place the downloaded video to `/assets/video/`.<br />
 Note: Path of the video looks like this `/assets/video/maldives.mp4`. 
 5. Open `index.html` in a browser (make sure you have enabled javascript).
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/fantastic-maldives)](https://github.com/kevinadhiguna)
