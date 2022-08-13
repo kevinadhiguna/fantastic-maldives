@@ -17,4 +17,8 @@ Here are how this app looks :
 Note: Path of the video looks like this `/assets/video/maldives.mp4`. 
 5. Open `index.html` in a browser (make sure you have enabled javascript).
 
+## Reference
+
+- [How To Make A Website With Background Video Using HTML and CSS In Just 10 Minute by Easy Tutorials](https://youtu.be/xekZXhumB0k)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/fantastic-maldives)](https://github.com/kevinadhiguna)
