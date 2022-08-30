@@ -38,4 +38,4 @@ Note: Path of the video looks like this `/assets/video/maldives.mp4`.
 
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/fantastic-maldives)](https://github.com/kevinadhiguna)
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=fantastic-maldives&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
